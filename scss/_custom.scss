@@ -1,0 +1,25 @@
+.u_padding-left{padding-left: 10rem ;}
+body{
+    font-size: 62.5%;
+}
+.btn-1:hover,
+.btn-1:focus{
+    background-color: white !important;
+    color: black !important;
+    border: none !important;
+}
+.itm-1:hover{
+    background-color: $success;
+    color: $light;
+}
+.color-grey{background-color:$gray-200;}
+.dropdown:hover .dropdown-menu {
+    display: block !important;
+  }
+.btn-2{
+    font-size: 1rem;
+    border-bottom:  .8px solid $success;
+}
+.font-m{
+    font-size: 1rem;
+}
